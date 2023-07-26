@@ -1,0 +1,17 @@
+.tb1{
+    background-color: bisque;
+    color: aqua;
+    margin: 2px;
+    padding: 4px;
+    border: 2px solid black;
+}
+.t1{
+    border: 2px solid black;
+    margin : 3px;
+}
+.t2{
+    border: 2px solid red
+}
+th, td {
+   border: 2px solid black;
+}
